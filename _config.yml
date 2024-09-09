@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Angel D. Reyero Lobo"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Machine Learning"
-  location         : "Toulouse"
-  employer         : "Toulouse Institute of Mathematics and Inria Paris-Saclay"
+  bio              : "PhD candidate in Machine Learning at Institut de Mathématiques de Toulouse/ MIND, Inria Paris-Saclay "
+  location         : "Toulouse, France"
+  employer         : #"Toulouse Institute of Mathematics and Inria Paris-Saclay"
   uri              : # URL
   email            : "angel.reyero-lobo@inria.fr" 
 
