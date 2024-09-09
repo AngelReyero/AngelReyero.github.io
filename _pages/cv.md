@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
+* PhD in Machine Learning (started in October 2024)
+  * Toulouse Institute of Mathematics and MIND Inria Paris-Saclay
+  * Under the supervision of [Pierre Neuvial](https://pneuvial.github.io/) and [Bertrand Thirion](https://pages.saclay.inria.fr/bertrand.thirion/)
+  * [ELLIS PhD student](https://ellis.eu/phd-postdoc) 
+* MSc in Mathematics and Artificial Intelligence, 2014
 * B.S. in GitHub, GitHub University, 2012
 
 Work experience
