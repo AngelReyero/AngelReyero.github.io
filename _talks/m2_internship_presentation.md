@@ -9,3 +9,4 @@ location: "Institut de Mathémathiques d'Orsay, Université Paris-Saclay, France
 pdf: /files/m2_slides.pdf
 ---
 
+[View the slides here](/files/m2_slides.pdf)
