@@ -16,7 +16,7 @@ Education
   * Under the supervision of [Pierre Neuvial](https://pneuvial.github.io/) and [Bertrand Thirion](https://pages.saclay.inria.fr/bertrand.thirion/)
   * [ELLIS PhD student](https://ellis.eu/phd-postdoc) 
 * MSc in [Mathematics and Artificial Intelligence](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/m2-mathematique-et-intelligence-artificielle/) (September 2022-October 2024)
-  * [Institut de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/) & [CentraleSupélec](https://www.centralesupelec.fr/), Université Paris-Saclay
+  * [Institut de Mathématiques d'Orsay](https://www.imo.universite-paris-saclay.fr/fr/) & [CentraleSupélec](https://www.centralesupelec.fr/), Université Paris-Saclay, 18.43/20
 * Double degree in Mathematics and Computer Science (Septembre 2019-Septembre 2022)
   * First and second year in Universidad Complutense de Madrid, 9.09/10
   * Third year in Université Paris-Saclay, 17.9/20
