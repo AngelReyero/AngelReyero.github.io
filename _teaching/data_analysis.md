@@ -4,6 +4,6 @@ collection: teaching
 type: "Practical work"
 permalink: https://departement-math.univ-tlse3.fr/l3-sid
 venue: "BSC, L3, Université Paul Sabatier"
-academic_year: "2024-2025"
+academic_year: "2024/2025"
 location: "Toulouse, France"
 ---
