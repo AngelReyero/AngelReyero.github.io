@@ -3,9 +3,10 @@ title: "A primer on linear classification with missing data"
 collection: publications
 category: conferences
 excerpt: 'This paper is prediction in classification with missing values using linear classifiers.'
-date: 2024-10-11
+date: 2025
+venue: AISTATS
 paperurl: 'https://arxiv.org/abs/2405.09196'
-citation: 'Lobo, A. D. R., Ayme, A., Boyer, C., and Scornet, E. (2024). A primer on linear classification with
+citation: 'Reyero Lobo, A. D., Ayme, A., Boyer, C., and Scornet, E. (2025). A primer on linear classification with
 missing data.'
 ---
 
