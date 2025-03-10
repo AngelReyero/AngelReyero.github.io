@@ -2,7 +2,7 @@
 title: "A primer on linear classification with missing data"
 collection: publications
 category: conferences
-excerpt: 'This paper is prediction in classification with missing values using linear classifiers.'
+excerpt: 'Prediction in classification with missing values using linear classifiers.'
 date: 2025-01-25
 venue: AISTATS
 paperurl: 'https://arxiv.org/abs/2405.09196'
