@@ -33,7 +33,7 @@ Work experience
   * [Laboratoire de Probabilités, Statistique, et Modélisation (LPSM)](https://www.lpsm.paris/), Sorbonne Université.
   * Under the supervision of [Alexis Ayme](https://alexisayme.github.io/), [Claire Boyer](https://www.imo.universite-paris-saclay.fr/~claire.boyer/index.html), [Erwan Scornet](https://erwanscornet.github.io/) and [Aymeric Dieuleveut](http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/).
   * Study of the optimality of linear classifiers in the context of prediction with missing data: adaptability to the pattern-by-pattern decomposition. 
-  * Submitted [pdf](https://arxiv.org/abs/2405.09196).
+  * AISTATS 2025 [pdf](https://arxiv.org/abs/2405.09196).
   * Internship report [pdf](https://github.com/AngelReyero/Missing-values-classification/blob/main/internship_report.pdf).
 
 * Research Assistant in Optimization/ Operational Research (01/06/2022-31/07/2022)
