@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 excerpt: 'PermuCATE is a new method for assessing variable importance in estimating heterogeneous treatment effects. It improves on existing techniques by reducing variance, making it more reliable—especially in low-data settings like biomedical applications.'
 date: 2025-01-30
-venue: Preprint
+venue: ICML, 2025
 paperurl: 'https://arxiv.org/abs/2408.13002'
 citation: 'Paillard, J., Reyero Lobo, A., Kolodyazhniy, V., Thirion, B., & Engemann, D. A. (2025). Measuring variable importance in heterogeneous treatment effects with confidence.'
 ---
