@@ -1,12 +1,15 @@
 ---
-title: "Sobol-CPI: a Doubly Robust Conditional Permutation Importance Statistic"
+title: "Conditional Feature Importance revisited: Double Robustness, Efficiency and Inference"
 collection: publications
 category: conferences
-excerpt: 'Measuring nonparametric efficiently variable importance with valid conditional independence testing using conditional permutation importance.'
+excerpt: 'Theoretical study of CFI, establishing a double-robust estimation property, clarifying its target estimand and bias, and proposing a procedure with valid type-I error control.'
 date: 2025-01-30
 venue: Preprint
 paperurl: 'https://arxiv.org/abs/2501.17520'
 citation: 'Reyero Lobo, A., Neuvial, P., and Thirion, B. Sobol-cpi: a doubly robust conditional permutation importance statistic. 2025'
 ---
 
-In this work, we first aim to provide a theoretical framework for Conditional Permutation Importance (CPI) by proving and specifying the assumptions under which the conditional distribution step is valid. CPI involves the estimation of the Total Sobol Index, which is typically estimated with removal-based approaches such as Leave One Covariate Out (LOCO). Here, we introduce \textit{Robust-CPI}, a variation of CPI that enables  We then formalize the advantages of this permutation-based approach over LOCO, as Robust-CPI benefits from an implicit bias that induces double robustness in detecting the null hypothesis, while LOCO suffers a double optimization error that limits its effectiveness. Finally, we validate our findings through numerical experiments.
+Conditional Feature Importance (CFI) was introduced long ago to account for the relationship between the studied feature and the rest of the input. However, CFI has not yet been studied from a theoretical perspective because the conditional sampling step has in general been exclusively practical. In this article, we demonstrate that the recent Conditional Permutation Importance (CPI) is indeed a valid implementation of this concept. Under the conditional null hypothesis, we then establish a double robustness property that can be leveraged for variable selection: with either a valid model or a valid conditional sampler, the method correctly identifies null coordinates.
+
+Under the alternative hypothesis, we study the theoretical target and link it to the popular Total Sobol Index (TSI). We introduce the Sobol-CPI, which generalizes CPI/CFI, prove that it is nonparametrically efficient, and provide a bias correction. Finally, we propose a consistent and valid type-I error test and present numerical experiments that illustrate our findings.
+
