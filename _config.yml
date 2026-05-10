@@ -21,7 +21,7 @@ repository               : "AngelReyero/AngelReyero.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "minneapolis_photo.jpg"
   name             : "Angel D. Reyero Lobo"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Machine Learning at Institut de Mathématiques de Toulouse/ MIND, Inria Paris-Saclay "
