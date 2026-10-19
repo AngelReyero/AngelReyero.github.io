@@ -30,7 +30,7 @@ Work experience
   * Sequential Conditional Independence Testing with Machine Learning models using e-values.
   * Preprint [pdf](https://arxiv.org/pdf/2610.11388)
 
- * Research in Machine Learning (01/10/2024-01/10/2027)
+* Research in Machine Learning (01/10/2024-01/10/2027)
   * [Institut de Mathématiques de Toulouse](https://www.math.univ-toulouse.fr/fr/) and [MIND, Inria Paris-Saclay](https://team.inria.fr/mind/)
   * Under the supervision of [Pierre Neuvial](https://pneuvial.github.io/) and [Bertrand Thirion](https://pages.saclay.inria.fr/bertrand.thirion/)
   * Scientific Discovery through Conditional Independence Testing with Model-X framework and Interpretable Machine Learning.
